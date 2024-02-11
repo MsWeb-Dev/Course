@@ -1,0 +1,40 @@
+.navbar {
+    background: rgba(218, 206, 206, 0.244); /* Opacity bilan rgba() funksiyasini ishlatish */
+    position: fixed; /* Elementning joylashuvi sabitlanadi */ /* Elementning ekran eni bo'lganligini ta'minlash */
+    top: 0; /* Ekranning yuqorisida joylashish */
+    width: 100%;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-top: 20px; /* Navbar uchun joy qoldirish */
+}
+
+
+.nav-link{
+    color:rgb(223, 225, 238);
+    font-weight: 800;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nav-link:active{
+    color:rgb(225, 149, 149);
+}
+.nav-link:hover{
+    color:rgb(141, 13, 13);
+}
+.bg {
+   background: #02064c;
+}
+.course-h1{
+    left: 2%;
+    
+}
+.rootlayout-h1{
+    list-style: none;
+    text-decoration: none;
+    color:white;
+}
+.rootlayout-h1:hover{
+    color:white;
+}

@@ -1,0 +1,49 @@
+.container {
+    padding-top: 80px;
+}
+
+.row {
+    flex-wrap: wrap;
+    color: white;
+    font-family: serif;
+}
+
+.col-sm-12 {
+    margin: 4%;
+    background: #0a0a37;
+    border-radius: 3%;
+    transition: transform 0.4s ease; /* Faqat transform uchun qo'shildi */
+}
+
+.content-img {
+    width: 100%;
+    height: 30vh;
+}
+
+.content-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 3%;
+    opacity:1.1;
+    transition: opacity 0.4s ease; /* Faqat opacity uchun qo'shildi */
+}
+
+/* .content-img img:hover {
+    opacity: 1.2;
+    position: absolute;
+    z-index: 99;
+} */
+
+/* .col-sm-12:hover  {
+    transform: scale(1.1);
+} */
+.box:hover{
+    transform: scale(1.1);
+    opacity: 1.1;
+}
+@media only screen and (max-width: 1300px) {
+    body {
+      background-color: lightblue;
+    }
+  }

@@ -1,0 +1,16 @@
+.footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 10px 0;
+    height: 15vh;
+   margin-top: 2%;
+   font-size: 18px;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  }
+  .nav-item{
+    list-style: none;
+    text-decoration: none;
+    margin: 1%;
+  }

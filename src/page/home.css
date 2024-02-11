@@ -1,0 +1,104 @@
+.home-content{
+    background-attachment: fixed;
+     width: 100%;
+     padding-top: 80px;
+}
+
+.courses{
+    background: #0a0a37;
+    border-radius:3%;
+    margin:5% auto;
+}
+.courses .img{
+    border-radius:3%;
+
+}
+.home-img{
+    width: 50%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.home-content-column{
+    background: #0a0a37;
+    border-radius:2%;
+    height: 55%;
+}
+/* .home-content-column .img{
+    height: 20%!important;
+} */
+
+.home-btn{
+    width: 25%!important;
+    text-align: center;
+}
+.home-about{
+    background: #0a0a37;
+    border-radius:2%;
+    
+}
+
+.english{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content-home-img{
+    width: 100%;
+    object-fit: cover;
+
+    height: 100%;
+}
+
+.home-container-content{
+    border-radius:3%;
+    color:white;
+    margin: 2%;
+    background: #0a0a37;
+}
+
+.home-container-content .img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.animate {
+    transition: all 0.3s ease-in-out; /* O'zgarishlarni 0.3 soniya davomida animatsiyalash */
+}
+.home-content-column-h1{
+    height: 38vh;
+}
+.message{
+    position: fixed;
+    top: 90%;
+    right: 6%;
+    color:green;
+}
+@media only screen and (max-width: 1300px) {
+   .home-content-column-img{
+       display: none!important;
+   }
+   .home-content-column-h1{
+    width: 100%;
+    height: 43vh!important;
+   }
+
+  }
+  /* The animation code */
+@keyframes message {
+    0%   {transform:rotate(5deg);}
+    25%  {transform:rotate(-5deg);}
+    50%  {transform:rotate(8deg);}
+    100% {transform:rotate(-8deg);}
+  }
+  
+  /* The element to apply the animation to */
+  .message {
+    width: 100px;
+    height: 100px;
+    animation-name: message;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
