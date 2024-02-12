@@ -11,52 +11,52 @@ function App() {
     
     {
       title: "Mashinasozlik",
-      image: "../../public/img/car.jpg",
+      image: "../dist/img/car.jpg",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       title: "Tikuvchilik",
-      image: "../../public/img/tikuvchilik.jpg",
+      image: "../dist/img/tikuvchilik.jpg",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       title: "Hamshiralik",
-      image: "../../public/img/doctor.jpg",
+      image: "../dist/img/doctor.jpg",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       title: "Agronomlik",
-      image: "../../public/img/agronomlikk.jpg",
+      image: "../dist/img/agronomlikk.jpg",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       title: " Zamonaviy kasblar",
-      image: "../../public/img/computer.jpg",
+      image: "../dist/img/computer.jpg",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       title: "Oshpazlik",
-      image: "../../public/img/cooking.jpeg",
+      image: "../dist/img/cooking.jpeg",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       title: "Qandolatchilik",
-      image: "../../public/img/qandolatchilik.jpg",
+      image: "../dist/img/qandolatchilik.jpg",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       title: " Ingliz tili",
-      image: "../../public/img/ingliztili.png",
+      image: "../dist/img/ingliztili.png",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       title: " Koreys tili",
-      image: "../../public/img/koreystili.png",
+      image: "../dist/img/koreystili.png",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
       title: " Rus tili",
-      image: "../../public/img/rustili.webp",
+      image: "../dist/img/rustili.webp",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     
