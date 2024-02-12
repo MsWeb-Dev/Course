@@ -20,7 +20,7 @@ function Home({data}) {
               <p className="h4 text-center ">
                 Bizning o'quv markazimizda nafaqat nazariy bilimlar balki amaliy bilimlar bilan  ham ko'nikmalaringizni oshirib borasiz!
               </p>
-              <a className='btn btn-outline-secondary text-center  offset-5 p-2 home-btn-content-btn' href='https://t.me/Parkent_bilim_najot'>Kursga yozilish</a>
+              <a className='btn btn-outline-secondary text-center  offset-4 p-2 home-btn-content-btn' href='https://t.me/Parkent_bilim_najot'>Kursga yozilish</a>
               
             </div>
             <div class="col-sm-5 col-md align-self-end text-white  d-flex justify-content-center home-content-column home-content-column-img  m-2 p-2">
