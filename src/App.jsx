@@ -11,53 +11,53 @@ function App() {
     
     {
       title: "Mashinasozlik",
-      image: "../dist/img/car.jpg",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/car.jpg",
+      description: "Mashinasozlikni 0dan o'rganish.",
     },
     {
       title: "Tikuvchilik",
-      image: "../dist/img/tikuvchilik.jpg",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/tikuvchilik.jpg",
+      description: "Dizaynerlik tikuvchilik bo'yicha barcha bilimlar.",
     },
     {
       title: "Hamshiralik",
-      image: "../dist/img/doctor.jpg",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/doctor.jpg",
+      description: "Nafaqat uy hamshirasi balki profissional hamshiralik darajasigacha.",
     },
     {
       title: "Agronomlik",
-      image: "../dist/img/agronomlikk.jpg",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/agronomlikk.jpg",
+      description: "Agronom bo'lsh uchun kerak bo'ladigan barcha bilimlar.",
     },
     {
       title: " Zamonaviy kasblar",
-      image: "../dist/img/computer.jpg",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/computer.jpg",
+      description: "Dasturlash SMM Kopmyter savodxonligi",
     },
     {
       title: "Oshpazlik",
-      image: "../dist/img/cooking.jpeg",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/cooking.jpeg",
+      description: "Oshxona qirolichasi bo'lish imkoniyati.",
     },
     {
       title: "Qandolatchilik",
-      image: "../dist/img/qandolatchilik.jpg",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/qandolatchilik.jpg",
+      description: "Qandolatchilikdagi barcha bilimlar.",
     },
     {
       title: " Ingliz tili",
-      image: "../dist/img/ingliztili.png",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/ingliztili.png",
+      description: "ILETS CEFR va boshlang'ich bilimlar",
     },
     {
       title: " Koreys tili",
-      image: "../dist/img/koreystili.png",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/koreystili.png",
+      description: "Koreys tiidan boshlang'ich bilimlar",
     },
     {
       title: " Rus tili",
-      image: "../dist/img/rustili.webp",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "/img/rustili.webp",
+      description: "Rus tiidan boshlang'ich bilimlar",
     },
     
 
