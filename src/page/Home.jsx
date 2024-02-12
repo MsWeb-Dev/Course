@@ -24,7 +24,7 @@ function Home({data}) {
               
             </div>
             <div class="col-sm-5 col-md align-self-end text-white  d-flex justify-content-center home-content-column home-content-column-img  m-2 p-2">
-              <img src="../../public/img/logo.jpg" alt="" className="img img-fluid home-img" />
+              <img src="/img/logo.jpg" alt="" className="img img-fluid home-img" />
             </div>
           </div>
         </div>
