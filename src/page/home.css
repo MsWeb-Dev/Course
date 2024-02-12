@@ -85,6 +85,12 @@
     height: 43vh!important;
    }
 
+  
+}
+@media only screen and (max-width: 600px) {
+  .home-registr{
+      padding:0;
+
   }
   /* The animation code */
 @keyframes message {
